@@ -1,0 +1,7 @@
+./out_dir/Mukul_Palit/Mukul_Palit_0007.png
+./out_dir/Prateek_Kesharwani/Prateek_Kesharwani_0002.png
+./out_dir/Prateek_Kesharwani/Prateek_Kesharwani_0004.png
+./out_dir/Rishabh_Jaiswal/20151225_140733.png
+./out_dir/Shubhi_Maheshwari/Shubhi_Maheshwari_0001.png
+./out_dir/Zahra_Malwi/Zahra_Malwi_0002.png
+./out_dir/Zahra_Malwi/Zahra_Malwi_0003.png

@@ -1,0 +1,84 @@
+./out_dir/Mukul_Palit/Mukul_Palit_0001.png 656 681 1099 1256
+./out_dir/Mukul_Palit/Mukul_Palit_0010.png 203 211 488 576
+./out_dir/Mukul_Palit/Mukul_Palit_0006.png 221 166 273 231
+./out_dir/Mukul_Palit/Mukul_Palit_0012.png 309 1547 1528 2969
+./out_dir/Mukul_Palit/Mukul_Palit_0014.png 500 134 855 587
+./out_dir/Mukul_Palit/Mukul_Palit_0002.png 849 1353 1746 2514
+./out_dir/Mukul_Palit/Mukul_Palit_0015.png 55 80 161 207
+./out_dir/Mukul_Palit/Mukul_Palit_0007.png
+./out_dir/Mukul_Palit/Mukul_Palit_0003.png 1286 1168 2427 2653
+./out_dir/Mukul_Palit/Mukul_Palit_0017.png 246 709 755 1350
+./out_dir/Mukul_Palit/Mukul_Palit_0008.png 295 310 560 655
+./out_dir/Mukul_Palit/Mukul_Palit_0011.png 435 1254 1465 2559
+./out_dir/Mukul_Palit/Mukul_Palit_0005.png 793 600 1630 1756
+./out_dir/Mukul_Palit/Mukul_Palit_0016.png 391 970 712 1382
+./out_dir/Mukul_Palit/Mukul_Palit_0013.png 108 55 170 132
+./out_dir/Mukul_Palit/Mukul_Palit_0004.png 961 1604 2461 3678
+./out_dir/Mukul_Palit/Mukul_Palit_0009.png 125 127 264 301
+./out_dir/Prateek_Kesharwani/Prateek_Kesharwani_0001.png 384 704 878 1289
+./out_dir/Prateek_Kesharwani/Prateek_Kesharwani_0009.png 415 364 784 806
+./out_dir/Prateek_Kesharwani/Prateek_Kesharwani_0007.png 178 360 706 944
+./out_dir/Prateek_Kesharwani/Prateek_Kesharwani_0002.png
+./out_dir/Prateek_Kesharwani/Prateek_Kesharwani_0008.png 497 622 1061 1328
+./out_dir/Prateek_Kesharwani/Prateek_Kesharwani_0005.png 345 287 582 600
+./out_dir/Prateek_Kesharwani/Prateek_Kesharwani_0003.png 563 201 807 495
+./out_dir/Prateek_Kesharwani/Prateek_Kesharwani_0004.png
+./out_dir/Prateek_Kesharwani/Prateek_Kesharwani_0010.png 320 165 526 428
+./out_dir/Rishabh_Jaiswal/20161205_183425.png 380 376 781 881
+./out_dir/Rishabh_Jaiswal/IMG_20170311_183629599_HDR.png 1578 1340 1956 1810
+./out_dir/Rishabh_Jaiswal/IMG_20170324_110507251_HDR.png 719 457 1266 1187
+./out_dir/Rishabh_Jaiswal/DSCN2995.png 1133 663 1782 1467
+./out_dir/Rishabh_Jaiswal/IMG_7677.png 226 131 372 312
+./out_dir/Rishabh_Jaiswal/IMG_20171001_180617_Bokeh.png 1283 837 1781 1437
+./out_dir/Rishabh_Jaiswal/IMG_20170322_174846495_HDR.png 550 470 1267 1362
+./out_dir/Rishabh_Jaiswal/IMG_20170324_110449442_HDR.png 586 289 1122 967
+./out_dir/Rishabh_Jaiswal/DSC04485.png 391 497 898 1103
+./out_dir/Rishabh_Jaiswal/20151225_140733.png
+./out_dir/Rishabh_Jaiswal/20160109_135944.png 379 372 720 802
+./out_dir/Rishabh_Jaiswal/IMG_20190226_185316_205.png 285 513 509 785
+./out_dir/Rishabh_Jaiswal/20161205_183252.png 631 306 1041 837
+./out_dir/Rishabh_Jaiswal/IMG_20190226_185259_341.png 344 412 606 730
+./out_dir/Rishabh_Jaiswal/DSCN2411.png 710 492 1158 1056
+./out_dir/Shubhi_Maheshwari/Shubhi_Maheshwari_0003.png 5 1337 56 1397
+./out_dir/Shubhi_Maheshwari/Shubhi_Maheshwari_0010.png 392 250 562 475
+./out_dir/Shubhi_Maheshwari/Shubhi_Maheshwari_0009.png 472 157 620 361
+./out_dir/Shubhi_Maheshwari/Shubhi_Maheshwari_0007.png 279 0 540 352
+./out_dir/Shubhi_Maheshwari/Shubhi_Maheshwari_0011.png 328 69 562 385
+./out_dir/Shubhi_Maheshwari/Shubhi_Maheshwari_0006.png 910 1194 1226 1546
+./out_dir/Shubhi_Maheshwari/Shubhi_Maheshwari_0004.png 219 72 538 488
+./out_dir/Shubhi_Maheshwari/Shubhi_Maheshwari_0013.png 431 42 820 561
+./out_dir/Shubhi_Maheshwari/Shubhi_Maheshwari_0001.png
+./out_dir/Shubhi_Maheshwari/Shubhi_Maheshwari_0005.png 330 219 438 363
+./out_dir/Shubhi_Maheshwari/Shubhi_Maheshwari_0008.png 212 64 447 379
+./out_dir/Shubhi_Maheshwari/Shubhi_Maheshwari_0012.png 220 205 298 307
+./out_dir/Shubhi_Maheshwari/Shubhi_Maheshwari_0002.png 296 292 562 618
+./out_dir/Yogesh_Nagor/Yogesh_Nagor_0014.png 201 494 546 966
+./out_dir/Yogesh_Nagor/Yogesh_Nagor_0007.png 298 158 535 469
+./out_dir/Yogesh_Nagor/Yogesh_Nagor_0001.png 1406 1180 1586 1418
+./out_dir/Yogesh_Nagor/Yogesh_Nagor_0010.png 249 96 514 440
+./out_dir/Yogesh_Nagor/Yogesh_Nagor_0015.png 438 259 788 723
+./out_dir/Yogesh_Nagor/Yogesh_Nagor_0004.png 1374 1252 1858 1854
+./out_dir/Yogesh_Nagor/Yogesh_Nagor_0002.png 2389 1845 2440 1917
+./out_dir/Yogesh_Nagor/Yogesh_Nagor_0013.png 479 641 765 997
+./out_dir/Yogesh_Nagor/Yogesh_Nagor_0003.png 851 972 1435 1781
+./out_dir/Yogesh_Nagor/Yogesh_Nagor_0006.png 1276 1095 1822 1832
+./out_dir/Yogesh_Nagor/Yogesh_Nagor_0005.png 1390 1612 1474 1711
+./out_dir/Yogesh_Nagor/Yogesh_Nagor_0008.png 389 314 695 677
+./out_dir/Yogesh_Nagor/Yogesh_Nagor_0009.png 182 279 577 783
+./out_dir/Yogesh_Nagor/Yogesh_Nagor_0011.png 425 467 846 1032
+./out_dir/Yogesh_Nagor/Yogesh_Nagor_0012.png 215 432 414 672
+./out_dir/Yogesh_Nagor/Yogesh_Nagor_0016.png 237 55 496 376
+./out_dir/Zahra_Malwi/IMG-20190313-WA0001.png 297 236 489 499
+./out_dir/Zahra_Malwi/Zahra_Malwi_0013.png 120 166 300 413
+./out_dir/Zahra_Malwi/Zahra_Malwi_0006.png 138 66 291 263
+./out_dir/Zahra_Malwi/Zahra_Malwi_0010.png 977 833 2044 1764
+./out_dir/Zahra_Malwi/Zahra_Malwi_0009.png 195 131 509 563
+./out_dir/Zahra_Malwi/Zahra_Malwi_0014.png 225 112 887 966
+./out_dir/Zahra_Malwi/Zahra_Malwi_0005.png 228 28 348 191
+./out_dir/Zahra_Malwi/Zahra_Malwi_0004.png 1033 1105 1929 1985
+./out_dir/Zahra_Malwi/Zahra_Malwi_0001.png 115 113 190 212
+./out_dir/Zahra_Malwi/Zahra_Malwi_0002.png
+./out_dir/Zahra_Malwi/Zahra_Malwi_0012.png 178 203 602 754
+./out_dir/Zahra_Malwi/Zahra_Malwi_0008.png 209 55 498 464
+./out_dir/Zahra_Malwi/Zahra_Malwi_0003.png
+./out_dir/Zahra_Malwi/Zahra_Malwi_0007.png 163 65 485 517
